@@ -1,8 +1,8 @@
 {
-  "appOpen": "#",
-  "banner": "#",
-  "native": "#",
-  "interstitial": "#",
+  "appOpen": "",
+  "banner": "",
+  "native": "",
+  "interstitial": "",
   "nativeAdInterval": 5,
   "interstitialChance": 20
 }
